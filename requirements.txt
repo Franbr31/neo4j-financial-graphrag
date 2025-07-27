@@ -1,3 +1,7 @@
 sec-api
 neo4j
 python-dotenv
+lxml
+requests
+arelle
+isodate
