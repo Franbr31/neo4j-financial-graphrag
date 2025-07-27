@@ -1,0 +1,4036 @@
+{
+    "total": {
+        "value": 2159,
+        "relation": "eq"
+    },
+    "query": {
+        "from": 0,
+        "size": 50
+    },
+    "filings": [
+        {
+            "ticker": "AAPL",
+            "formType": "3",
+            "accessionNo": "0000320193-25-000066",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/xslF345X02/wk-form3_1753482781.xml",
+            "description": "Form 3 - Initial statement of beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/0000320193-25-000066.txt",
+            "filedAt": "2025-07-25T18:33:09-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/xslF345X02/wk-form3_1753482781.xml",
+                    "description": "FORM 3",
+                    "type": "3"
+                },
+                {
+                    "sequence": "1",
+                    "size": "12640",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/wk-form3_1753482781.xml",
+                    "description": "FORM 3",
+                    "type": "3"
+                },
+                {
+                    "sequence": "2",
+                    "size": "5024",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/khanpoa.htm",
+                    "description": "EX-24",
+                    "type": "EX-24"
+                },
+                {
+                    "sequence": "3",
+                    "size": "264573",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/khanpoa001.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "4",
+                    "size": "80092",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/khanpoa002.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "494005",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/0000320193-25-000066.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-07-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "2078476",
+                    "fileNo": "001-36743",
+                    "companyName": "Khan Sabih (Reporting)",
+                    "type": "3",
+                    "filmNo": "251152700"
+                }
+            ],
+            "id": "5475be59ae1209ce2b8f10bd68ef2faa",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000066/0000320193-25-000066-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "8-K",
+            "accessionNo": "0001140361-25-027340",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/ef20052355_8k.htm",
+            "description": "Form 8-K - Current report - Item 5.02",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/0001140361-25-027340.txt",
+            "filedAt": "2025-07-25T16:30:49-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "39695",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000114036125027340/ef20052355_8k.htm",
+                    "description": "8-K",
+                    "type": "8-K"
+                },
+                {
+                    "sequence": "6",
+                    "size": "1264",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/logo_apple.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "245111",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/0001140361-25-027340.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-07-21",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "8-K",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "251152047",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "cfd913ee7f992461154265d7fee28f9c",
+            "seriesAndClassesContractsInformation": [],
+            "items": [
+                "Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+            ],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/0001140361-25-027340-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "2",
+                    "size": "5529",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/aapl-20250721.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "3",
+                    "size": "20109",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/aapl-20250721_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "4",
+                    "size": "30692",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/aapl-20250721_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "5",
+                    "size": "22636",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/aapl-20250721_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "17",
+                    "size": "12753",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/ef20052355_8k_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "8-K",
+            "accessionNo": "0001140361-25-025275",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/ef20051741_8k.htm",
+            "description": "Form 8-K - Current report - Item 5.02",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/0001140361-25-025275.txt",
+            "filedAt": "2025-07-08T21:18:13-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "38186",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000114036125025275/ef20051741_8k.htm",
+                    "description": "8-K",
+                    "type": "8-K"
+                },
+                {
+                    "sequence": "6",
+                    "size": "1264",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/logo_apple.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "243370",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/0001140361-25-025275.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-07-08",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "8-K",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "251112173",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "bb9e6033e45669b8067f049e484ef3fe",
+            "seriesAndClassesContractsInformation": [],
+            "items": [
+                "Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+            ],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/0001140361-25-025275-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "2",
+                    "size": "5529",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/aapl-20250708.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "3",
+                    "size": "20109",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/aapl-20250708_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "4",
+                    "size": "30692",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/aapl-20250708_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "5",
+                    "size": "22636",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/aapl-20250708_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "17",
+                    "size": "12753",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/ef20051741_8k_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "25-NSE",
+            "accessionNo": "0001354457-25-000451",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "effectivenessDate": "2025-05-22",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000135445725000451/xslF25X02/primary_doc.xml",
+            "description": "Form 25-NSE - Notification filed by national security exchange to report the removal from listing and registration of matured, redeemed or retired securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000135445725000451/0001354457-25-000451.txt",
+            "filedAt": "2025-05-22T16:14:03-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000135445725000451/xslF25X02/primary_doc.xml",
+                    "type": "25-NSE"
+                },
+                {
+                    "sequence": "1",
+                    "size": "1063",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000135445725000451/primary_doc.xml",
+                    "type": "25-NSE"
+                },
+                {
+                    "sequence": "2",
+                    "size": "107",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000135445725000451/aapl25-form25.txt",
+                    "type": "EX-99.25"
+                },
+                {
+                    "sequence": " ",
+                    "size": "3092",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000135445725000451/0001354457-25-000451.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "000-10030",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "25-NSE",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25977279",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "fiscalYearEnd": "1231",
+                    "stateOfIncorporation": "DE",
+                    "cik": "1354457",
+                    "companyName": "Nasdaq Stock Market LLC (Filed by)",
+                    "type": "25-NSE",
+                    "undefined": "521165937"
+                }
+            ],
+            "id": "89a971f4fecca91b5744af6d9db743fe",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000135445725000451/0001354457-25-000451-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000059",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000059/xslF345X05/wk-form4_1747261821.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000059/0000320193-25-000059.txt",
+            "filedAt": "2025-05-14T18:30:28-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000059/xslF345X05/wk-form4_1747261821.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "3050",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000059/wk-form4_1747261821.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "4675",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000059/0000320193-25-000059.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-05-12",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1631982",
+                    "fileNo": "001-36743",
+                    "companyName": "KONDO CHRIS (Reporting)",
+                    "type": "4",
+                    "filmNo": "25947614"
+                }
+            ],
+            "id": "a12ea1abbd56974ca091290b26978a06",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000059/0000320193-25-000059-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "8-K",
+            "accessionNo": "0001140361-25-018400",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/ef20048691_8k.htm",
+            "description": "Form 8-K - Current report - Item 8.01 Item 9.01",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/0001140361-25-018400.txt",
+            "filedAt": "2025-05-12T16:30:28-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "49403",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000114036125018400/ef20048691_8k.htm",
+                    "description": "8-K",
+                    "type": "8-K"
+                },
+                {
+                    "sequence": "2",
+                    "size": "194969",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/ef20048691_ex1-1.htm",
+                    "description": "EXHIBIT 1.1",
+                    "type": "EX-1.1"
+                },
+                {
+                    "sequence": "3",
+                    "size": "283600",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/ef20048691_ex4-1.htm",
+                    "description": "EXHIBIT 4.1",
+                    "type": "EX-4.1"
+                },
+                {
+                    "sequence": "4",
+                    "size": "21951",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/ef20048691_ex5-1.htm",
+                    "description": "EXHIBIT 5.1",
+                    "type": "EX-5.1"
+                },
+                {
+                    "sequence": "9",
+                    "size": "17830",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/image00001.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "10",
+                    "size": "3567",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/image00002.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "11",
+                    "size": "1264",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/logo_apple.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "887109",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/0001140361-25-018400.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-05-05",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "8-K",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25935352",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "4910dbd827f57ec4aa60d1bad5f2f8d4",
+            "seriesAndClassesContractsInformation": [],
+            "items": [
+                "Item 8.01: Other Events",
+                "Item 9.01: Financial Statements and Exhibits"
+            ],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/0001140361-25-018400-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "5",
+                    "size": "5841",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/aapl-20250505.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "6",
+                    "size": "19691",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/aapl-20250505_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "7",
+                    "size": "33515",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/aapl-20250505_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "8",
+                    "size": "21647",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/aapl-20250505_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "23",
+                    "size": "13666",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/ef20048691_8k_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "424B2",
+            "accessionNo": "0001140361-25-017543",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/ny20048442x3_424b2.htm",
+            "description": "Form 424B2 - Prospectus [Rule 424(b)(2)]",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/0001140361-25-017543.txt",
+            "filedAt": "2025-05-06T16:31:12-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "507991",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/ny20048442x3_424b2.htm",
+                    "description": "424B2",
+                    "type": "424B2"
+                },
+                {
+                    "sequence": "2",
+                    "size": "33319",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000114036125017543/ny20048442x3_exfees.htm",
+                    "description": "EX-FILING FEES",
+                    "type": "EX-FILING FEES"
+                },
+                {
+                    "sequence": "3",
+                    "size": "10133",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/logo_applegrey.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "4",
+                    "size": "8209",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/logo_applegreyx1.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "5",
+                    "size": "12065",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/logo_applegreyx2.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "734021",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/0001140361-25-017543.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "333-282937",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "424B2",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25917774",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "a4cde55f00b74288bdcc5ae9b1feffcb",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/0001140361-25-017543-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "19",
+                    "size": "9015",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017543/ny20048442x3_exfees_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "FWP",
+            "accessionNo": "0001140361-25-017410",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filed by)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017410/ny20048442x2_fwp.htm",
+            "description": "Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017410/0001140361-25-017410.txt",
+            "filedAt": "2025-05-05T20:58:13-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "65292",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017410/ny20048442x2_fwp.htm",
+                    "description": "FWP",
+                    "type": "FWP"
+                },
+                {
+                    "sequence": " ",
+                    "size": "67181",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017410/0001140361-25-017410.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Filed by)",
+                    "type": "FWP",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "333-282937",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "FWP",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25914799",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "3edfde2d65ea00e20ea0ba30b5452d0f",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017410/0001140361-25-017410-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "424B2",
+            "accessionNo": "0001140361-25-017233",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/ny20048442x1_424b2.htm",
+            "description": "Form 424B2 - Prospectus [Rule 424(b)(2)]",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/0001140361-25-017233.txt",
+            "filedAt": "2025-05-05T08:16:54-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "467306",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/ny20048442x1_424b2.htm",
+                    "description": "424B2",
+                    "type": "424B2"
+                },
+                {
+                    "sequence": "2",
+                    "size": "10133",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/logo_applegrey.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "3",
+                    "size": "12065",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/logo_applegreyx1.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "4",
+                    "size": "8209",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/logo_applegreyx2.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "509849",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/0001140361-25-017233.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "333-282937",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "424B2",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25911009",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "be2f0d9dc7c8c2595474163b4f85ffbe",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125017233/0001140361-25-017233-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "10-Q",
+            "accessionNo": "0000320193-25-000057",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329.htm",
+            "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/0000320193-25-000057.txt",
+            "filedAt": "2025-05-02T06:00:46-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "889977",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000032019325000057/aapl-20250329.htm",
+                    "description": "10-Q",
+                    "type": "10-Q"
+                },
+                {
+                    "sequence": "2",
+                    "size": "10524",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/a10-qexhibit31103292025.htm",
+                    "description": "EX-31.1",
+                    "type": "EX-31.1"
+                },
+                {
+                    "sequence": "3",
+                    "size": "10563",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/a10-qexhibit31203292025.htm",
+                    "description": "EX-31.2",
+                    "type": "EX-31.2"
+                },
+                {
+                    "sequence": "4",
+                    "size": "8356",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/a10-qexhibit32103292025.htm",
+                    "description": "EX-32.1",
+                    "type": "EX-32.1"
+                },
+                {
+                    "sequence": "10",
+                    "size": "10963",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329_g1.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5299807",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/0000320193-25-000057.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-03-29",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "10-Q",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25905357",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "a32b673281c455966ddc6b15e5066950",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/0000320193-25-000057-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "5",
+                    "size": "33865",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "6",
+                    "size": "75630",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329_cal.xml",
+                    "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+                    "type": "EX-101.CAL"
+                },
+                {
+                    "sequence": "7",
+                    "size": "153714",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "8",
+                    "size": "494720",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "9",
+                    "size": "315516",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "63",
+                    "size": "758005",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "8-K",
+            "accessionNo": "0000320193-25-000055",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/aapl-20250501.htm",
+            "description": "Form 8-K - Current report - Item 2.02 Item 9.01",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/0000320193-25-000055.txt",
+            "filedAt": "2025-05-01T16:30:21-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "40428",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000032019325000055/aapl-20250501.htm",
+                    "description": "8-K",
+                    "type": "8-K"
+                },
+                {
+                    "sequence": "2",
+                    "size": "167601",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/a8-kex991q2202503292025.htm",
+                    "description": "EX-99.1",
+                    "type": "EX-99.1"
+                },
+                {
+                    "sequence": "7",
+                    "size": "1264",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/aapl-20250501_g1.jpg",
+                    "description": "null",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "436093",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/0000320193-25-000055.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-05-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "8-K",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25903731",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "cec20759858010aaf10f33f8c486f2ce",
+            "seriesAndClassesContractsInformation": [],
+            "items": [
+                "Item 2.02: Results of Operations and Financial Condition",
+                "Item 9.01: Financial Statements and Exhibits"
+            ],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/0000320193-25-000055-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "3",
+                    "size": "4071",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/aapl-20250501.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "4",
+                    "size": "19066",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/aapl-20250501_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "5",
+                    "size": "36338",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/aapl-20250501_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "6",
+                    "size": "20213",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/aapl-20250501_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "18",
+                    "size": "9190",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/aapl-20250501_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000051",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000051/xslF345X05/wk-form4_1745620207.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000051/0000320193-25-000051.txt",
+            "filedAt": "2025-04-25T18:30:14-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000051/xslF345X05/wk-form4_1745620207.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "3243",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000051/wk-form4_1745620207.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "4779",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000051/0000320193-25-000051.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-04-23",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "2050912",
+                    "fileNo": "001-36743",
+                    "companyName": "Parekh Kevan (Reporting)",
+                    "type": "4",
+                    "filmNo": "25875569"
+                }
+            ],
+            "id": "4c1c564f6f127acceebca775968e0037",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000051/0000320193-25-000051-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "144",
+            "accessionNo": "0001950047-25-002536",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002536/xsl144X01/primary_doc.xml",
+            "description": "Form 144 - Report of proposed sale of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002536/0001950047-25-002536.txt",
+            "filedAt": "2025-04-23T16:22:36-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002536/xsl144X01/primary_doc.xml",
+                    "description": "null",
+                    "type": "144"
+                },
+                {
+                    "sequence": "1",
+                    "size": "3288",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002536/primary_doc.xml",
+                    "description": "null",
+                    "type": "144"
+                },
+                {
+                    "sequence": " ",
+                    "size": "4810",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002536/0001950047-25-002536.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "144",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25861810",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "cik": "2050912",
+                    "companyName": "Parekh Kevan (Reporting)"
+                }
+            ],
+            "id": "b58965ee041b763821325141e5c2d338",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002536/0001950047-25-002536-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000049",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000049/xslF345X05/wk-form4_1744929115.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000049/0000320193-25-000049.txt",
+            "filedAt": "2025-04-17T18:32:02-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000049/xslF345X05/wk-form4_1744929115.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "11879",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000049/wk-form4_1744929115.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "13415",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000049/0000320193-25-000049.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-04-15",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "2050912",
+                    "fileNo": "001-36743",
+                    "companyName": "Parekh Kevan (Reporting)",
+                    "type": "4",
+                    "filmNo": "25848773"
+                }
+            ],
+            "id": "3f2782d7414eea862d51edda8d3bfe5a",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000049/0000320193-25-000049-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000048",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000048/xslF345X05/wk-form4_1744929066.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000048/0000320193-25-000048.txt",
+            "filedAt": "2025-04-17T18:31:13-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000048/xslF345X05/wk-form4_1744929066.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "14558",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000048/wk-form4_1744929066.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "16183",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000048/0000320193-25-000048.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-04-15",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1631982",
+                    "fileNo": "001-36743",
+                    "companyName": "KONDO CHRIS (Reporting)",
+                    "type": "4",
+                    "filmNo": "25848768"
+                }
+            ],
+            "id": "c42ea346583b77cfb0e94c88a8df9962",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000048/0000320193-25-000048-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "SD",
+            "accessionNo": "0001140361-25-012359",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/ef20046400_sd.htm",
+            "description": "Form SD - Specialized disclosure report",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/0001140361-25-012359.txt",
+            "filedAt": "2025-04-04T16:30:11-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "16337",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/ef20046400_sd.htm",
+                    "description": "SD",
+                    "type": "SD"
+                },
+                {
+                    "sequence": "2",
+                    "size": "82708",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/ef20046400_ex1-01.htm",
+                    "description": "EXHIBIT 1.01",
+                    "type": "EX-1.01"
+                },
+                {
+                    "sequence": "3",
+                    "size": "86636",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/image00001.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "4",
+                    "size": "1240",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/image00002.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "221487",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/0001140361-25-012359.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "SD",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25815163",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "cb8ad53b7d0495db5371df691a6fcf29",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125012359/0001140361-25-012359-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000045",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000045/xslF345X05/wk-form4_1743719610.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000045/0000320193-25-000045.txt",
+            "filedAt": "2025-04-03T18:33:37-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000045/xslF345X05/wk-form4_1743719610.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "18025",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000045/wk-form4_1743719610.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "19563",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000045/0000320193-25-000045.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-04-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1496686",
+                    "fileNo": "001-36743",
+                    "companyName": "WILLIAMS JEFFREY E (Reporting)",
+                    "type": "4",
+                    "filmNo": "25811433"
+                }
+            ],
+            "id": "94016e8567cd0dbd58bad7679a79bb9d",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000045/0000320193-25-000045-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000044",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000044/xslF345X05/wk-form4_1743719572.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000044/0000320193-25-000044.txt",
+            "filedAt": "2025-04-03T18:32:58-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000044/xslF345X05/wk-form4_1743719572.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "12014",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000044/wk-form4_1743719572.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "13553",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000044/0000320193-25-000044.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-04-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1767094",
+                    "fileNo": "001-36743",
+                    "companyName": "O'BRIEN DEIRDRE (Reporting)",
+                    "type": "4",
+                    "filmNo": "25811430"
+                }
+            ],
+            "id": "ed2202bf48dce58df73d2cb3351bf9a0",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000044/0000320193-25-000044-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000043",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000043/xslF345X05/wk-form4_1743719531.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000043/0000320193-25-000043.txt",
+            "filedAt": "2025-04-03T18:32:18-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000043/xslF345X05/wk-form4_1743719531.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "19807",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000043/wk-form4_1743719531.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "21372",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000043/0000320193-25-000043.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-04-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1214156",
+                    "fileNo": "001-36743",
+                    "companyName": "COOK TIMOTHY D (Reporting)",
+                    "type": "4",
+                    "filmNo": "25811428"
+                }
+            ],
+            "id": "f36dfbb90f976c4da15f140023121f0d",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000043/0000320193-25-000043-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000042",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000042/xslF345X05/wk-form4_1743719480.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000042/0000320193-25-000042.txt",
+            "filedAt": "2025-04-03T18:31:27-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000042/xslF345X05/wk-form4_1743719480.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "19598",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000042/wk-form4_1743719480.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "21164",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000042/0000320193-25-000042.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-04-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1462356",
+                    "fileNo": "001-36743",
+                    "companyName": "Adams Katherine L. (Reporting)",
+                    "type": "4",
+                    "filmNo": "25811426"
+                }
+            ],
+            "id": "e8ce8a080f715ded8cd4541ef9c5744d",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000042/0000320193-25-000042-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "144",
+            "accessionNo": "0001950047-25-002338",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002338/xsl144X01/primary_doc.xml",
+            "description": "Form 144 - Report of proposed sale of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002338/0001950047-25-002338.txt",
+            "filedAt": "2025-04-02T16:26:32-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002338/xsl144X01/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": "1",
+                    "size": "3301",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002338/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": " ",
+                    "size": "4853",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002338/0001950047-25-002338.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "144",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25805078",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "cik": "1462356",
+                    "companyName": "Adams Katherine L. (Reporting)",
+                    "type": "144"
+                }
+            ],
+            "id": "fca84e2b3454dbd8433497710eafaf5e",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000195004725002338/0001950047-25-002338-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "144",
+            "accessionNo": "0001969223-25-000218",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000196922325000218/xsl144X01/primary_doc.xml",
+            "description": "Form 144 - Report of proposed sale of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000196922325000218/0001969223-25-000218.txt",
+            "filedAt": "2025-04-02T16:14:00-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000196922325000218/xsl144X01/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": "1",
+                    "size": "2920",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000196922325000218/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": " ",
+                    "size": "4444",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000196922325000218/0001969223-25-000218.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "144",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25804640",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "cik": "1496686",
+                    "companyName": "WILLIAMS JEFFREY E (Reporting)",
+                    "type": "144"
+                }
+            ],
+            "id": "e93ff95339513406c0b3f927df8ec3a0",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000196922325000218/0001969223-25-000218-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "144",
+            "accessionNo": "0001959173-25-002460",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000195917325002460/xsl144X01/primary_doc.xml",
+            "description": "Form 144 - Report of proposed sale of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000195917325002460/0001959173-25-002460.txt",
+            "filedAt": "2025-04-02T16:12:31-04:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195917325002460/xsl144X01/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": "1",
+                    "size": "3103",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195917325002460/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": " ",
+                    "size": "4654",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000195917325002460/0001959173-25-002460.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "144",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25804577",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "cik": "1214156",
+                    "companyName": "COOK TIMOTHY D (Reporting)",
+                    "type": "144"
+                }
+            ],
+            "id": "4b2b05484dc6d8c71b99161a90e30e3f",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000195917325002460/0001959173-25-002460-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000036",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000036/xslF345X05/wk-form4_1740699336.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000036/0000320193-25-000036.txt",
+            "filedAt": "2025-02-27T18:35:41-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000036/xslF345X05/wk-form4_1740699336.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4163",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000036/wk-form4_1740699336.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5739",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000036/0000320193-25-000036.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1059235",
+                    "fileNo": "001-36743",
+                    "companyName": "WAGNER SUSAN (Reporting)",
+                    "type": "4",
+                    "filmNo": "25681582"
+                }
+            ],
+            "id": "9e7b768336bfbb7e568c8fb25f9e0576",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000036/0000320193-25-000036-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000035",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000035/xslF345X05/wk-form4_1740699290.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000035/0000320193-25-000035.txt",
+            "filedAt": "2025-02-27T18:34:58-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000035/xslF345X05/wk-form4_1740699290.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4168",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000035/wk-form4_1740699290.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5742",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000035/0000320193-25-000035.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1216519",
+                    "fileNo": "001-36743",
+                    "companyName": "SUGAR RONALD D (Reporting)",
+                    "type": "4",
+                    "filmNo": "25681579"
+                }
+            ],
+            "id": "1b39de3986133d237747d5b2e458ae9c",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000035/0000320193-25-000035-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000034",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000034/xslF345X05/wk-form4_1740699250.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000034/0000320193-25-000034.txt",
+            "filedAt": "2025-02-27T18:34:19-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000034/xslF345X05/wk-form4_1740699250.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4170",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000034/wk-form4_1740699250.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5618",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000034/0000320193-25-000034.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1179864",
+                    "fileNo": "001-36743",
+                    "companyName": "LOZANO MONICA C (Reporting)",
+                    "type": "4",
+                    "filmNo": "25681575"
+                }
+            ],
+            "id": "f67741a2b4dfd2aa79edbb6e56d753df",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000034/0000320193-25-000034-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000033",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000033/xslF345X05/wk-form4_1740699194.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000033/0000320193-25-000033.txt",
+            "filedAt": "2025-02-27T18:33:20-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000033/xslF345X05/wk-form4_1740699194.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4174",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000033/wk-form4_1740699194.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5765",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000033/0000320193-25-000033.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1214128",
+                    "fileNo": "001-36743",
+                    "companyName": "LEVINSON ARTHUR D (Reporting)",
+                    "type": "4",
+                    "filmNo": "25681572"
+                }
+            ],
+            "id": "c8ba470c2d95d37e6adde04edc37fea5",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000033/0000320193-25-000033-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000032",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000032/xslF345X05/wk-form4_1740699149.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000032/0000320193-25-000032.txt",
+            "filedAt": "2025-02-27T18:32:35-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000032/xslF345X05/wk-form4_1740699149.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4161",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000032/wk-form4_1740699149.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5730",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000032/0000320193-25-000032.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1051401",
+                    "fileNo": "001-36743",
+                    "companyName": "JUNG ANDREA (Reporting)",
+                    "type": "4",
+                    "filmNo": "25681545"
+                }
+            ],
+            "id": "215d4b8fa8498c8a83be6417235eb723",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000032/0000320193-25-000032-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000031",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000031/xslF345X05/wk-form4_1740699102.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000031/0000320193-25-000031.txt",
+            "filedAt": "2025-02-27T18:31:50-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000031/xslF345X05/wk-form4_1740699102.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4161",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000031/wk-form4_1740699102.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5747",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000031/0000320193-25-000031.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1453149",
+                    "fileNo": "001-36743",
+                    "companyName": "Gorsky Alex (Reporting)",
+                    "type": "4",
+                    "filmNo": "25681537"
+                }
+            ],
+            "id": "966d7bca21c2c5485a368a9869ed6eed",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000031/0000320193-25-000031-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000030",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000030/xslF345X05/wk-form4_1740699044.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000030/0000320193-25-000030.txt",
+            "filedAt": "2025-02-27T18:30:50-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000030/xslF345X05/wk-form4_1740699044.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4168",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000030/wk-form4_1740699044.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5710",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000030/0000320193-25-000030.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1690882",
+                    "fileNo": "001-36743",
+                    "companyName": "Austin Wanda M (Reporting)",
+                    "type": "4",
+                    "filmNo": "25681533"
+                }
+            ],
+            "id": "de8b3ee6b812b3de3c9532eccfe4c026",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000030/0000320193-25-000030-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "8-K",
+            "accessionNo": "0001140361-25-005876",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/ef20044022_8k.htm",
+            "description": "Form 8-K - Current report - Item 5.07",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/0001140361-25-005876.txt",
+            "filedAt": "2025-02-25T16:47:19-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "70379",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000114036125005876/ef20044022_8k.htm",
+                    "description": "8-K",
+                    "type": "8-K"
+                },
+                {
+                    "sequence": "6",
+                    "size": "1264",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/logo_apple.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "291815",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/0001140361-25-005876.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "8-K",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25664289",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "f307ca5c7c635a2d13da54b00b5f69b2",
+            "seriesAndClassesContractsInformation": [],
+            "items": [
+                "Item 5.07: Submission of Matters to a Vote of Security Holders"
+            ],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/0001140361-25-005876-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "2",
+                    "size": "5841",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/aapl-20250225.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "3",
+                    "size": "19691",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/aapl-20250225_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "4",
+                    "size": "33515",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/aapl-20250225_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "5",
+                    "size": "21647",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/aapl-20250225_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "18",
+                    "size": "13666",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/ef20044022_8k_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "PX14A6G",
+            "accessionNo": "0001096906-25-000152",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "effectivenessDate": "2025-02-13",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000152/bowy_px14a6g.htm",
+            "description": "Form PX14A6G - Notice of exempt solicitation submitted by non-management",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000152/0001096906-25-000152.txt",
+            "filedAt": "2025-02-13T13:50:03-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "16925",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000152/bowy_px14a6g.htm",
+                    "description": "BOWYER RESEARCH - PX14A6G",
+                    "type": "PX14A6G"
+                },
+                {
+                    "sequence": "2",
+                    "size": "4948",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000152/bowypx14a6g_1.jpg",
+                    "description": "IMAGE",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "25564",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000152/0001096906-25-000152.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "PX14A6G",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25619076",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "fiscalYearEnd": "1231",
+                    "stateOfIncorporation": "PA",
+                    "cik": "1996368",
+                    "irsNo": "463874783",
+                    "companyName": "Bowyer Research, Inc. (Filed by)",
+                    "type": "PX14A6G"
+                }
+            ],
+            "id": "bb256fa31e21ec6f87aa85752c30659e",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000152/0001096906-25-000152-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000022",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000022/xslF345X05/wk-form4_1738712153.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000022/0000320193-25-000022.txt",
+            "filedAt": "2025-02-04T18:35:59-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000022/xslF345X05/wk-form4_1738712153.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "6169",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000022/wk-form4_1738712153.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "7745",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000022/0000320193-25-000022.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1059235",
+                    "fileNo": "001-36743",
+                    "companyName": "WAGNER SUSAN (Reporting)",
+                    "type": "4",
+                    "filmNo": "25590100"
+                }
+            ],
+            "id": "e1197bedb89578f5d77e18f2375efcaa",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000022/0000320193-25-000022-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000021",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000021/xslF345X05/wk-form4_1738712099.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000021/0000320193-25-000021.txt",
+            "filedAt": "2025-02-04T18:35:07-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000021/xslF345X05/wk-form4_1738712099.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "5490",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000021/wk-form4_1738712099.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "7064",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000021/0000320193-25-000021.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1216519",
+                    "fileNo": "001-36743",
+                    "companyName": "SUGAR RONALD D (Reporting)",
+                    "type": "4",
+                    "filmNo": "25590096"
+                }
+            ],
+            "id": "4ea50afa86bc73923df60d427dca871f",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000021/0000320193-25-000021-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000020",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000020/xslF345X05/wk-form4_1738712037.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000020/0000320193-25-000020.txt",
+            "filedAt": "2025-02-04T18:34:04-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000020/xslF345X05/wk-form4_1738712037.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "5490",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000020/wk-form4_1738712037.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "6938",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000020/0000320193-25-000020.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1179864",
+                    "fileNo": "001-36743",
+                    "companyName": "LOZANO MONICA C (Reporting)",
+                    "type": "4",
+                    "filmNo": "25590092"
+                }
+            ],
+            "id": "804540975adbf0f64aec44b616062851",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000020/0000320193-25-000020-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000019",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000019/xslF345X05/wk-form4_1738711997.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000019/0000320193-25-000019.txt",
+            "filedAt": "2025-02-04T18:33:25-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000019/xslF345X05/wk-form4_1738711997.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "7551",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000019/wk-form4_1738711997.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "9142",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000019/0000320193-25-000019.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1214128",
+                    "fileNo": "001-36743",
+                    "companyName": "LEVINSON ARTHUR D (Reporting)",
+                    "type": "4",
+                    "filmNo": "25590091"
+                }
+            ],
+            "id": "b25c38f1c71cb6e45175ddc8a26c5e86",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000019/0000320193-25-000019-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000018",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000018/xslF345X05/wk-form4_1738711956.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000018/0000320193-25-000018.txt",
+            "filedAt": "2025-02-04T18:32:42-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000018/xslF345X05/wk-form4_1738711956.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "5482",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000018/wk-form4_1738711956.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "7051",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000018/0000320193-25-000018.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1051401",
+                    "fileNo": "001-36743",
+                    "companyName": "JUNG ANDREA (Reporting)",
+                    "type": "4",
+                    "filmNo": "25590090"
+                }
+            ],
+            "id": "75c2b74a33ff3e26d847c429b886fc44",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000018/0000320193-25-000018-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000017",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000017/xslF345X05/wk-form4_1738711922.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000017/0000320193-25-000017.txt",
+            "filedAt": "2025-02-04T18:32:08-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000017/xslF345X05/wk-form4_1738711922.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "5481",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000017/wk-form4_1738711922.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "7067",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000017/0000320193-25-000017.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1453149",
+                    "fileNo": "001-36743",
+                    "companyName": "Gorsky Alex (Reporting)",
+                    "type": "4",
+                    "filmNo": "25590088"
+                }
+            ],
+            "id": "1e9bf8c28edf1b878ab5bc35d085a9bb",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000017/0000320193-25-000017-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-25-000016",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000016/xslF345X05/wk-form4_1738711872.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000016/0000320193-25-000016.txt",
+            "filedAt": "2025-02-04T18:31:18-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000016/xslF345X05/wk-form4_1738711872.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "5488",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000016/wk-form4_1738711872.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "7030",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000016/0000320193-25-000016.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1690882",
+                    "fileNo": "001-36743",
+                    "companyName": "Austin Wanda M (Reporting)",
+                    "type": "4",
+                    "filmNo": "25590085"
+                }
+            ],
+            "id": "bb2bf6c65e9f337eaff5d4c069d7a2a0",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000016/0000320193-25-000016-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "144",
+            "accessionNo": "0001921094-25-000087",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000192109425000087/xsl144X01/primary_doc.xml",
+            "description": "Form 144 - Report of proposed sale of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000192109425000087/0001921094-25-000087.txt",
+            "filedAt": "2025-02-03T16:18:58-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000192109425000087/xsl144X01/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": "1",
+                    "size": "4608",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000192109425000087/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": " ",
+                    "size": "6185",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000192109425000087/0001921094-25-000087.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "144",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25582765",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "cik": "1214128",
+                    "companyName": "LEVINSON ARTHUR D (Reporting)",
+                    "type": "144"
+                }
+            ],
+            "id": "9c646fdabdd25686ea650a528023db76",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000192109425000087/0001921094-25-000087-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "10-Q",
+            "accessionNo": "0000320193-25-000008",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228.htm",
+            "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/0000320193-25-000008.txt",
+            "filedAt": "2025-01-31T06:01:27-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "732589",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000032019325000008/aapl-20241228.htm",
+                    "description": "10-Q",
+                    "type": "10-Q"
+                },
+                {
+                    "sequence": "2",
+                    "size": "71323",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/a10-qexhibit10112282024.htm",
+                    "description": "EX-10.1",
+                    "type": "EX-10.1"
+                },
+                {
+                    "sequence": "3",
+                    "size": "82509",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/a10-qexhibit10212282024.htm",
+                    "description": "EX-10.2",
+                    "type": "EX-10.2"
+                },
+                {
+                    "sequence": "4",
+                    "size": "10529",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/a10-qexhibit31112282024.htm",
+                    "description": "EX-31.1",
+                    "type": "EX-31.1"
+                },
+                {
+                    "sequence": "5",
+                    "size": "10568",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/a10-qexhibit31212282024.htm",
+                    "description": "EX-31.2",
+                    "type": "EX-31.2"
+                },
+                {
+                    "sequence": "6",
+                    "size": "8372",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/a10-qexhibit32112282024.htm",
+                    "description": "EX-32.1",
+                    "type": "EX-32.1"
+                },
+                {
+                    "sequence": "12",
+                    "size": "10963",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228_g1.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "13",
+                    "size": "3431",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/image_0.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "5150277",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/0000320193-25-000008.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2024-12-28",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "10-Q",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25575705",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "87ad46d753be2052b74aaeb653c43dc0",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/0000320193-25-000008-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "7",
+                    "size": "34533",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "8",
+                    "size": "75630",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228_cal.xml",
+                    "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+                    "type": "EX-101.CAL"
+                },
+                {
+                    "sequence": "9",
+                    "size": "155214",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "10",
+                    "size": "497582",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "11",
+                    "size": "318265",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "66",
+                    "size": "641761",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "8-K",
+            "accessionNo": "0000320193-25-000007",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/aapl-20250130.htm",
+            "description": "Form 8-K - Current report - Item 2.02 Item 9.01",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/0000320193-25-000007.txt",
+            "filedAt": "2025-01-30T16:30:23-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "40450",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000032019325000007/aapl-20250130.htm",
+                    "description": "8-K",
+                    "type": "8-K"
+                },
+                {
+                    "sequence": "2",
+                    "size": "140215",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/a8-kex991q1202512282024.htm",
+                    "description": "EX-99.1",
+                    "type": "EX-99.1"
+                },
+                {
+                    "sequence": "7",
+                    "size": "1264",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/aapl-20250130_g1.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "407697",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/0000320193-25-000007.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-01-30",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "8-K",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25574180",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "34c3eca4ba70cdfdc83f9c33ca8f81c8",
+            "seriesAndClassesContractsInformation": [],
+            "items": [
+                "Item 2.02: Results of Operations and Financial Condition",
+                "Item 9.01: Financial Statements and Exhibits"
+            ],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/0000320193-25-000007-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "3",
+                    "size": "4071",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/aapl-20250130.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "4",
+                    "size": "19066",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/aapl-20250130_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "5",
+                    "size": "36338",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/aapl-20250130_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "6",
+                    "size": "20213",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/aapl-20250130_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "18",
+                    "size": "9190",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000007/aapl-20250130_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "PX14A6G",
+            "accessionNo": "0001096906-25-000100",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "effectivenessDate": "2025-01-29",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpc_px14a6g.htm",
+            "description": "Form PX14A6G - Notice of exempt solicitation submitted by non-management",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/0001096906-25-000100.txt",
+            "filedAt": "2025-01-29T12:24:33-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "54026",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpc_px14a6g.htm",
+                    "description": "NATIONAL LEGAL AND POLICY CENTER - PX14A6G",
+                    "type": "PX14A6G"
+                },
+                {
+                    "sequence": "2",
+                    "size": "25407",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpcpx14a6g_1.jpg",
+                    "description": "IMAGE",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "3",
+                    "size": "26041",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpcpx14a6g_2.jpg",
+                    "description": "IMAGE",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "4",
+                    "size": "9920",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpcpx14a6g_3.jpg",
+                    "description": "IMAGE",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "5",
+                    "size": "43847",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpcpx14a6g_4.jpg",
+                    "description": "IMAGE",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "6",
+                    "size": "7884",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpcpx14a6g_5.jpg",
+                    "description": "IMAGE",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "7",
+                    "size": "18937",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/nlpcpx14a6g_6.jpg",
+                    "description": "IMAGE",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "238442",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/0001096906-25-000100.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "PX14A6G",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25567906",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "fiscalYearEnd": "1231",
+                    "stateOfIncorporation": "DC",
+                    "cik": "1958085",
+                    "irsNo": "521750188",
+                    "companyName": "National Legal & Policy Center (Filed by)",
+                    "type": "PX14A6G"
+                }
+            ],
+            "id": "f7d61055fa96fc10c1ced19d7217c25c",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000109690625000100/0001096906-25-000100-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "3",
+            "accessionNo": "0000320193-25-000002",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/xslF345X02/wk-form3_1736551805.xml",
+            "description": "Form 3 - Initial statement of beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/0000320193-25-000002.txt",
+            "filedAt": "2025-01-10T18:30:12-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/xslF345X02/wk-form3_1736551805.xml",
+                    "description": "FORM 3",
+                    "type": "3"
+                },
+                {
+                    "sequence": "1",
+                    "size": "8393",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/wk-form3_1736551805.xml",
+                    "description": "FORM 3",
+                    "type": "3"
+                },
+                {
+                    "sequence": "2",
+                    "size": "5043",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/parekhpoa.htm",
+                    "description": "EX-24",
+                    "type": "EX-24"
+                },
+                {
+                    "sequence": "3",
+                    "size": "269595",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/parekhpoa001.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "4",
+                    "size": "76571",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/parekhpoa002.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "491830",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/0000320193-25-000002.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-01-01",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "2050912",
+                    "fileNo": "001-36743",
+                    "companyName": "Parekh Kevan (Reporting)",
+                    "type": "3",
+                    "filmNo": "25524280"
+                }
+            ],
+            "id": "76e3b2495698cf29e3124545010cf255",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000002/0000320193-25-000002-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "DEFA14A",
+            "accessionNo": "0001308179-25-000009",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14a.htm",
+            "description": "Form DEFA14A - Additional definitive proxy soliciting materials and Rule 14(a)(12) material",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/0001308179-25-000009.txt",
+            "filedAt": "2025-01-10T16:37:12-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "42206",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14a.htm",
+                    "description": "DEFINITIVE ADDITIONAL PROXY SOLICITING MATERIALS",
+                    "type": "DEFA14A"
+                },
+                {
+                    "sequence": "2",
+                    "size": "2918",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax1x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "3",
+                    "size": "36607",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax1x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "4",
+                    "size": "19860",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax1x3.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "5",
+                    "size": "3627",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax1x4.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "6",
+                    "size": "4937",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax1x5.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "7",
+                    "size": "18496",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax1x6.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "8",
+                    "size": "1140",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax2x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "9",
+                    "size": "4746",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-defa14ax2x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "10",
+                    "size": "4494",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/aapl4359751-logo.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "11",
+                    "size": "1452",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/appl4359751-defa14ax1x7.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "12",
+                    "size": "1068",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/appl4359751-defa14ax1x8.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "181988",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/0001308179-25-000009.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "DEFA14A",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25523516",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "a3c7075a02a2942796a0f27418a78975",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000009/0001308179-25-000009-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "DEF 14A",
+            "accessionNo": "0001308179-25-000008",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14a.htm",
+            "description": "Form DEF 14A - Other definitive proxy statements",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/0001308179-25-000008.txt",
+            "filedAt": "2025-01-10T16:31:18-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "1230838",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14a.htm",
+                    "description": "DEFINITIVE PROXY STATEMENT",
+                    "type": "DEF 14A"
+                },
+                {
+                    "sequence": "2",
+                    "size": "3803303",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl_courtesy-pdf.pdf",
+                    "description": "DEFINITIVE PROXY STATEMENT",
+                    "type": "DEF 14A"
+                },
+                {
+                    "sequence": "7",
+                    "size": "6260",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax100x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "8",
+                    "size": "76938",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax108x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "9",
+                    "size": "44202",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax10x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "10",
+                    "size": "14998",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax10x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "11",
+                    "size": "117079",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax11x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "12",
+                    "size": "80597",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax11x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "13",
+                    "size": "4313",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax11x3.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "14",
+                    "size": "533240",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax12x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "15",
+                    "size": "1662",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax12x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "16",
+                    "size": "1119544",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax13x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "17",
+                    "size": "40204",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax13x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "18",
+                    "size": "49188",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax14x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "19",
+                    "size": "263181",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax1x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "20",
+                    "size": "1918",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax30x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "21",
+                    "size": "835131",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax32x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "22",
+                    "size": "710132",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax32x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "23",
+                    "size": "735169",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax33x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "24",
+                    "size": "674101",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax33x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "25",
+                    "size": "698653",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax34x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "26",
+                    "size": "833966",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax34x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "27",
+                    "size": "891873",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax35x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "28",
+                    "size": "876575",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax35x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "29",
+                    "size": "63557",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax39x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "30",
+                    "size": "44774",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax39x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "31",
+                    "size": "57675",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax39x3.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "32",
+                    "size": "55968",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax39x4.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "33",
+                    "size": "48378",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax43x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "34",
+                    "size": "54052",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax43x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "35",
+                    "size": "61566",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax43x3.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "36",
+                    "size": "194379",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax47x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "37",
+                    "size": "2710",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax4x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "38",
+                    "size": "26636",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax50x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "39",
+                    "size": "12280",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax50x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "40",
+                    "size": "26483",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax51x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "41",
+                    "size": "64863",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax52x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "42",
+                    "size": "79171",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax52x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "43",
+                    "size": "1665",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax5x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "44",
+                    "size": "1732",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax5x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "45",
+                    "size": "5848",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax5x3.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "46",
+                    "size": "7638",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax68x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "47",
+                    "size": "7349",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax70x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "48",
+                    "size": "1868",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax70x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "49",
+                    "size": "8322",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax72x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "50",
+                    "size": "17723",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax7x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "51",
+                    "size": "5857",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax7x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "52",
+                    "size": "1910",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax81x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "53",
+                    "size": "7364",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax82x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "54",
+                    "size": "1894",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax84x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "55",
+                    "size": "7364",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax86x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "56",
+                    "size": "7832",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14ax96x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "57",
+                    "size": "4494",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-logo.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "58",
+                    "size": "2859",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-pcx1x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "59",
+                    "size": "7828",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-pcx1x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "60",
+                    "size": "3430",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-pcx1x3.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "61",
+                    "size": "2917",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-pcx2x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "62",
+                    "size": "1452",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/appl4359751-def14ax1x1.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": "63",
+                    "size": "1068",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/appl4359751-def14ax1x2.jpg",
+                    "description": "GRAPHIC",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "32132682",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/0001308179-25-000008.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2025-02-25",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "DEF 14A",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25523460",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "ed7994c4e99e10cc43d17b7ee3d8b93a",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/0001308179-25-000008-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "3",
+                    "size": "5672",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl-20250225.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "4",
+                    "size": "45969",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl-20250225_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "5",
+                    "size": "60040",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl-20250225_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "6",
+                    "size": "9677",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl-20250225_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "75",
+                    "size": "133640",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14a_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "8-K",
+            "accessionNo": "0001140361-25-000228",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Filer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/ef20040370_8k.htm",
+            "description": "Form 8-K - Current report - Item 5.02",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/0001140361-25-000228.txt",
+            "filedAt": "2025-01-03T16:30:56-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": "42802",
+                    "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000114036125000228/ef20040370_8k.htm",
+                    "description": "FORM 8-K",
+                    "type": "8-K"
+                },
+                {
+                    "sequence": "6",
+                    "size": "1264",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/logo_apple.jpg",
+                    "type": "GRAPHIC"
+                },
+                {
+                    "sequence": " ",
+                    "size": "263081",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/0001140361-25-000228.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2024-12-30",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "34",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Filer)",
+                    "type": "8-K",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "25506883",
+                    "undefined": "06 Technology)"
+                }
+            ],
+            "id": "f3f3ff3d7f4ca426c64a24323081b771",
+            "seriesAndClassesContractsInformation": [],
+            "items": [
+                "Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+            ],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/0001140361-25-000228-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": [
+                {
+                    "sequence": "2",
+                    "size": "5842",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/aapl-20241230.xsd",
+                    "description": "XBRL TAXONOMY EXTENSION SCHEMA",
+                    "type": "EX-101.SCH"
+                },
+                {
+                    "sequence": "3",
+                    "size": "19692",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/aapl-20241230_def.xml",
+                    "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE",
+                    "type": "EX-101.DEF"
+                },
+                {
+                    "sequence": "4",
+                    "size": "33516",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/aapl-20241230_lab.xml",
+                    "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE",
+                    "type": "EX-101.LAB"
+                },
+                {
+                    "sequence": "5",
+                    "size": "21648",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/aapl-20241230_pre.xml",
+                    "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE",
+                    "type": "EX-101.PRE"
+                },
+                {
+                    "sequence": "18",
+                    "size": "13666",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000114036125000228/ef20040370_8k_htm.xml",
+                    "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+                    "type": "XML"
+                }
+            ]
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-24-000132",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000132/xslF345X05/wk-form4_1734564614.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000132/0000320193-24-000132.txt",
+            "filedAt": "2024-12-18T18:30:20-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000132/xslF345X05/wk-form4_1734564614.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "9537",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000132/wk-form4_1734564614.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "11086",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000132/0000320193-24-000132.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2024-12-16",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1496686",
+                    "fileNo": "001-36743",
+                    "companyName": "WILLIAMS JEFFREY E (Reporting)",
+                    "type": "4",
+                    "filmNo": "241560548"
+                }
+            ],
+            "id": "dcfd7759c18d50ffc017a1b88d4b47c2",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000132/0000320193-24-000132-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "144",
+            "accessionNo": "0001973141-24-000617",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Subject)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000197314124000617/xsl144X01/primary_doc.xml",
+            "description": "Form 144 - Report of proposed sale of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000197314124000617/0001973141-24-000617.txt",
+            "filedAt": "2024-12-16T16:15:02-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000197314124000617/xsl144X01/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": "1",
+                    "size": "5541",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000197314124000617/primary_doc.xml",
+                    "type": "144"
+                },
+                {
+                    "sequence": " ",
+                    "size": "7076",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000197314124000617/0001973141-24-000617.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "act": "33",
+                    "cik": "320193",
+                    "fileNo": "001-36743",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Subject)",
+                    "type": "144",
+                    "sic": "3571 Electronic Computers",
+                    "filmNo": "241551957",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "cik": "1496686",
+                    "companyName": "WILLIAMS JEFFREY E (Reporting)",
+                    "type": "144"
+                }
+            ],
+            "id": "c2b7b9be00319a186c1cffcd55afbcfd",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000197314124000617/0001973141-24-000617-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        },
+        {
+            "ticker": "AAPL",
+            "formType": "4",
+            "accessionNo": "0000320193-24-000130",
+            "cik": "320193",
+            "companyNameLong": "Apple Inc. (Issuer)",
+            "companyName": "Apple Inc.",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000130/xslF345X05/wk-form4_1732059096.xml",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000130/0000320193-24-000130.txt",
+            "filedAt": "2024-11-19T18:31:42-05:00",
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "size": " ",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000130/xslF345X05/wk-form4_1732059096.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": "1",
+                    "size": "7792",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000130/wk-form4_1732059096.xml",
+                    "description": "FORM 4",
+                    "type": "4"
+                },
+                {
+                    "sequence": " ",
+                    "size": "9384",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000130/0000320193-24-000130.txt",
+                    "description": "Complete submission text file",
+                    "type": " "
+                }
+            ],
+            "periodOfReport": "2024-11-15",
+            "entities": [
+                {
+                    "fiscalYearEnd": "0927",
+                    "stateOfIncorporation": "CA",
+                    "cik": "320193",
+                    "irsNo": "942404110",
+                    "companyName": "Apple Inc. (Issuer)",
+                    "sic": "3571 Electronic Computers",
+                    "undefined": "06 Technology)"
+                },
+                {
+                    "act": "34",
+                    "cik": "1214128",
+                    "fileNo": "001-36743",
+                    "companyName": "LEVINSON ARTHUR D (Reporting)",
+                    "type": "4",
+                    "filmNo": "241477714"
+                }
+            ],
+            "id": "3f3233a2add0d56afa2cf61d2e8455be",
+            "seriesAndClassesContractsInformation": [],
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000130/0000320193-24-000130-index.htm",
+            "linkToXbrl": "",
+            "dataFiles": []
+        }
+    ]
+}
